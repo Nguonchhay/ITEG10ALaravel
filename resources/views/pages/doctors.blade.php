@@ -15,6 +15,7 @@
                 debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat
                 ipsum dolorem.
               </p>
+              <a class="btn btn-primary" href="{{ route('pages.doctors.create') }}">Create Doctor</a>
             </div>
           </div>
         </div>
