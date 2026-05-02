@@ -14,29 +14,4 @@ class DoctorController extends Controller
             'doctors' => $doctors
         ]);
     }
-
-    public function create()
-    {
-        return view('pages.doctors.create');
-    }
-
-    public function store(Request $request)
-    {
-
-    }
-
-    public function edit(Doctor $doctor)
-    {
-
-    }
-
-    public function update(Doctor $doctor, Request $request)
-    {
-
-    }
-
-    public function destroy(Doctor $doctor)
-    {
-
-    }
 }

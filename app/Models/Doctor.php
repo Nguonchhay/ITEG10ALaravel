@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Attributes\Fillable;
 #[Fillable(['fullname', 'specialist', 'avatar', 'info', 'experience_year', 'socials'])]
 class Doctor extends Model
 {
-    //
+   
 }
